@@ -1,2 +1,9 @@
-# Typoglycemia
-https://www.reddit.com/r/dailyprogrammer/comments/3s4nyq/20151109_challenge_240_easy_typoglycemia/
+# Project Euler Haskell
+First couple of problems from project euler in haskell.
+
+## Usage 
+```sh
+$ gch prob1.hs
+$ ./prob1
+233168
+```
